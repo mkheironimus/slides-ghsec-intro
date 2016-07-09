@@ -1,0 +1,14 @@
+{
+  "name": "GitHub Account Security",
+  "description": "Simple steps to protect your GitHub account",
+  "author": "Michael Heironimus",
+  "url": "https://mkheironimus.github.io/",
+  "email": "heironimus@gmail.com",
+  "twitter": "mkheironimus",
+  "templates": { "default": "default.tpl" },
+  "sections": [
+    { "section": "intro" },
+    { "section": "twofactor" },
+    { "section": "otheracct" }
+  ]
+}
