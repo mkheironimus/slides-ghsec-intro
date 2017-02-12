@@ -1,7 +1,7 @@
 # slides-ghsec-intro
 
 Quick introductory notes on protecting your GitHub account. This is a
-[Showoff](https://github.com/puppetlabs/showoff) 0.14 presentation.
+[Showoff](https://github.com/puppetlabs/showoff) 0.16 presentation.
 
 You can also view this presentation [in your
 browser](https://mkheironimus.github.io/slides-ghsec-intro/). Move through the
