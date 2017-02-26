@@ -6,9 +6,10 @@
   "email": "heironimus@gmail.com",
   "twitter": "mkheironimus",
   "templates": { "default": "default.tpl" },
-  "sections": [
-    { "section": "intro" },
-    { "section": "twofactor" },
-    { "section": "otheracct" }
-  ]
+  "sections": {
+    "Intro": [ "intro/01_intro.md" ],
+    "Two-Factor Auth": [ "twofactor/01_twofactor.md", "twofactor/02_u2f.md" ],
+    "Other Account Settings": [ "otheracct/01_otherstuff.md" ],
+    "Git GPG signing": [ "gitgpg/01_gitgpg.md" ]
+  }
 }
